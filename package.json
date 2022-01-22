@@ -16,5 +16,6 @@
     "express-formidable": "^1.2.0",
     "mongoose": "^6.1.7",
     "uid2": "^1.0.0"
-  }
+  },
+  "start": "node index.js"
 }
